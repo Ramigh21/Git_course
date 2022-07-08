@@ -1,0 +1,1 @@
+hello this file is named 'new_file' of type 'txt'
